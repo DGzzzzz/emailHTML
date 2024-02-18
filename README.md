@@ -16,6 +16,6 @@ email3.html - > criado email de confirmação de pedido;
 email4.html - > criado email de promoção;
 
 # Material de apoio:
-[mod20EmailHTML.pdf](https://github.com/DGzzzzz/emailHTML/blob/main/mod20EmailHTML.pdf)
+[mod20EmailHTML.pdf](https://github.com/DGzzzzz/Repositorio_arquivos_externos/blob/main/materialApoio/mod20EmailHTML.pdf)
 
-[mod20gEmailHTML.pdf](https://github.com/DGzzzzz/emailHTML/blob/main/mod20gEmailHTML.pdf)
+[mod20gEmailHTML.pdf](https://github.com/DGzzzzz/Repositorio_arquivos_externos/blob/main/materialApoio/mod20gEmailHTML.pdf)
